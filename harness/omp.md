@@ -123,3 +123,5 @@ The 39 skills that need no translation run as written. The 17 below need one or 
 ## Harnesses without subagents
 
 Codex, and any other single-agent harness, can read the skills and follow the single-agent path. Every fan-out step (`swarm`, `arena`, `interrogate`, `reflect`, `architect`, `how`, `why`, `poteto-mode` orchestration) gets the skip line and the parent does the work serially. Never fake a fan-out: the diversity of models is the mechanism, and one model reviewing its own work does not reproduce it.
+
+A harness with a subagent tool under a name neither this file nor `claude-code.md` lists is not in this group. Map by capability instead: spawn, read-only mode, per-agent model binding and question tool take the skill's Cursor field one for one, and name the mapping in one line before running the skill.
