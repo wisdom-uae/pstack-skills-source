@@ -2,9 +2,9 @@
 
 - Repository: https://github.com/cursor/plugins
 - Path: `pstack/`
-- Version: 0.15.29
-- Commit: `190d28736eff128ec94f502a22c7fe0c4b56cd37`
-- Synced: 2026-10-21
+- Version: 0.15.36
+- Commit: `6b0300214a09fd6029cfb7077043125758cd1fd2`
+- Synced: 2026-11-07
 
 Every directory under upstream `pstack/skills/` is mirrored.
 `tdd` and `teach` are published as `pstack-tdd` and `pstack-teach` to avoid
