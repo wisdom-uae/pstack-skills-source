@@ -17,6 +17,7 @@ publicSkills:
   - in-your-own-words
   - interrogate
   - ketchup
+  - ketchup-video
   - maintain-formal-verification-skill
   - maintain-verification-skill
   - make-bot-ui
@@ -51,9 +52,11 @@ publicSkills:
   - pstack-teach
   - recall
   - reflect
+  - reframe
   - setup-pstack
   - sharpen
   - show-me-your-work
+  - statechart
   - swarm
   - technical-writing
   - typescript-best-practices
